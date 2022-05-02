@@ -1,2 +1,3 @@
 # GitLesson
-Start serious learning
+Start serious learning 
+I must be very serious about it
